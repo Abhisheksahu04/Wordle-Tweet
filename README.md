@@ -16,7 +16,3 @@ Analyze Wordle-related tweets to extract gameplay data, understand solving patte
 - Calculates average accuracy per guess round
 - Maps correct guesses to actual Wordle answers
 
----
-
-## 📁 Project Structure
-
